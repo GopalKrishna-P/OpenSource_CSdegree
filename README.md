@@ -1,6 +1,6 @@
 <h1 align=center> Open Source Computer Science Degree </h1>
 
-This repo documents my attempt at pursuing an undergrad Computer Science majors through open-sourced, university-level MOOC's that meets the requrements of **MIT's** [_Computer Science and Engineering (6-3)_](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/).
+This repo documents my work towards pursuing an undergrad Computer Science majors through open-sourced, university-level MOOC's that meets the requrements of **MIT's** [_Computer Science and Engineering (6-3)_](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/).
 
 Since, I already have a majors in Mechanical Engineering I have omitted general education and non-CS course requirements.
 
