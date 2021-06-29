@@ -32,7 +32,7 @@ Courses | Prerequisites | School | CourseWork |
 :--: | :--: | :--: | :--: |
 [CS50x: Introduction to programming](https://cs50.harvard.edu/x/2021/) | none | Harvard | [repo](https://github.com/GopalKrishna-P/cs50x#readme) |
 [MIT 6.0002: Intro to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm) | none | MIT | [repo](https://github.com/GopalKrishna-P/MIT_6.0002#readme)
-[MIT 6.006: Maths for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015) | none | MIT | [repo](https://github.com/GopalKrishna-P/MIT_6.042J#readme)
+[MIT 6.042J: Maths for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015) | none | MIT | [repo](https://github.com/GopalKrishna-P/MIT_6.042J#readme)
 
 **Topics covered**: <br>
 `Python`
@@ -57,7 +57,7 @@ Courses | Prerequisites | School | CourseWork |
 [Operating Systems Concepts](https://web.stanford.edu/~ouster/cgi-bin/cs140-spring20/lectures.php) | Nand2Tetris | Stanford | [repo](https://github.com/GopalKrishna-P/OS_coursework#readme)
 [MIT 6.006: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) | MIT 6.042J & MIT 6.01  | MIT | [repo]()
 [MIT 6.046: Design & Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/) | MIT 6.006  | MIT | [repo]()
-[Comp](https://nptel.ac.in/courses/106/104/106104028/) | MIT 6.042J | IIT Kanpur | [repo]()
+[Theory of Computation](https://nptel.ac.in/courses/106/104/106104028/) | MIT 6.042J | IIT Kanpur | [repo]()
 [Machine Learning](https://www.coursera.org/learn/machine-learning) | none | Stanford | [repo](https://github.com/GopalKrishna-P/Intro_to_MachineLearning#readme)
 
 **Topics covered**: <br>
